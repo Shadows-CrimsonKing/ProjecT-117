@@ -1,5 +1,5 @@
 <h1 align="center">ProjecT-117</h1>
-<h3 align="center" class="sp4rk{y0u_d0m1n4t3_v3r510n_c0ntr01}">ProjecT-117</h3>
+<h3 align="center">ProjecT-117</h3>
 
 ## Plan Description
 
